@@ -1,5 +1,6 @@
 <div>
-  <img height="30px" right:"20px" alt="pelle-my-friend" src="https://media.giphy.com/media/11Wf3llSqbkgko/giphy.gif">
+  <h1><img height="30px" right:"20px" alt="pelle-my-friend" src="https://media.giphy.com/media/11Wf3llSqbkgko/giphy.gif"> Hi there 👋</h1>
+  
   <hr/>
   <div>
   <a href="http://www.frosteryd.me">    <img src=https://img.shields.io/badge/%20%20%F0%9F%91%8B%20%20-frosteryd.me-blue?colorA=D3D3D3></a>
@@ -29,3 +30,4 @@
 <!--
 **frosteryd/frosteryd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+ 
