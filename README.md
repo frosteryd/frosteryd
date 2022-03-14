@@ -3,7 +3,7 @@
   
   <hr/>
   <div>
-  <a href="http://www.frosteryd.me">    <img src=https://img.shields.io/badge/%20%20%F0%9F%91%8B%20%20-frosteryd.me-blue?colorA=D3D3D3></a>
+  <a href="http://frosteryd.me">    <img src=https://img.shields.io/badge/%20%20%F0%9F%91%8B%20%20-frosteryd.me-blue?colorA=D3D3D3></a>
     <p>&nbsp;</p> 
   </div>
   <div>
