@@ -1,14 +1,9 @@
 <div>
-  <h1><img height="30px" right:"20px" alt="pelle-my-friend" src="https://media.giphy.com/media/11Wf3llSqbkgko/giphy.gif"> Hi there 👋</h1>
-  
-  <hr/>
   <div>
   <a href="http://frosteryd.me">    <img src=https://img.shields.io/badge/%20%20%F0%9F%91%8B%20%20-frosteryd.me-blue?colorA=D3D3D3></a>
-    <p>&nbsp;</p> 
   </div>
   <div>
     🏃 <span>Chief Evangelist <a href="https://github.com/sun-labs">@sun-labs</a></span>
-    <p>&nbsp;</p> 
   </div>
     <div>
         👋 <a href="https://www.linkedin.com/in/linusfrosteryd">https://www.linkedin.com/in/linusfrosteryd</a>
