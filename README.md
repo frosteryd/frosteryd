@@ -8,8 +8,6 @@ I've dazzled over 100k users with stellar experiences! A maestro of web framewor
 Tech Lead at [EQT ventures](https://eqtventures.com/)<br>
 Founder [Sun Labs](https://sunlabs.se/)<br>
 
- 👋 <a href="https://www.linkedin.com/in/linusfrosteryd">https://www.linkedin.com/in/linusfrosteryd</a>
-
 - ⚙️ I use daily: `tsx`, `py`, `Bun`, `Kubernetes`, `CI/CD`, `Pub/Sub`, `Airflow`, `Terraform`, `DBT`
 - 🌍 I'm mostly active within the **TS** and **Big data** communities 
 - 💬 `ping` me about **data**, **branding**, **development**, **design thinking**
