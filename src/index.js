@@ -96,7 +96,7 @@ const me = boxen(
 
 console.log(me);
 const tip = [
-  `Tip: Try ${chalk.cyanBright.bold("cmd/ctrl + click")} on the links above`,
+  `Tip: Try ${chalk.cyanBright.bold("cmd/ctrl + 2x click")} on the links above`,
   '',
 ].join("\n");
 console.log(tip);
