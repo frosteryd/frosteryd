@@ -5,9 +5,12 @@ I've dazzled over 100k users with stellar experiences! A maestro of web framewor
 
 #### Tech Lead by day ☀️ | Indie Hacker by night ✨ 🏝️
 
-Tech Lead at [EQT ventures](https://eqtventures.com/)<br>
-Founder [Sun Labs](https://sunlabs.se/)<br>
+Want to know more?
+
+```bash
+<span style="color:#00FF00n;">npx frosteryd</span>
+```
 
 - ⚙️ I use daily: `tsx`, `py`, `Bun`, `Kubernetes`, `CI/CD`, `Pub/Sub`, `Airflow`, `Terraform`, `DBT`
-- 🌍 I'm mostly active within the **TS** and **Big data** communities 
+- 🌍 I'm mostly active within the **TS** and **Big data** communities
 - 💬 `ping` me about **data**, **branding**, **development**, **design thinking**
