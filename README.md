@@ -6,8 +6,9 @@ I've dazzled over 100k users with stellar experiences! A maestro of web framewor
 #### Tech Lead by day ☀️ | Indie Hacker by night ✨ 🏝️
 
 Want to discover more?
-<div style="background:black;color:lime;padding:10px;border-radius:5px;">
-<code>npx frosteryd</code>
+<div style="width:300;background:black;padding:30px;border-radius:5px;">
+<code style='color:lime;user-select:none'>$</code>
+<code style='color:lime'>npx frosteryd</code>
 </div>
 
 - ⚙️ I use daily: `tsx`, `py`, `Bun`, `Kubernetes`, `CI/CD`, `Pub/Sub`, `Airflow`, `Terraform`, `DBT`
