@@ -3,8 +3,6 @@
 I'm an Indie Hacker – I tackle problems head-on with code.
 I've dazzled over 100k users with stellar experiences! A maestro of web frameworks, a wizard with time-series data, and a virtuoso in crafting high-octane cloud applications.
 
-#### Tech Lead by day ☀️ | Indie Hacker by night ✨ 🏝️
-
 Want to discover more?
 ```bash
 npx frosteryd
